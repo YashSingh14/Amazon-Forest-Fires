@@ -41,13 +41,24 @@
 
 
 # Learning Outcomes:
- Gained hands-on experience of working on data with Python libraries.
-
- Gained data pre-processing as well as data cleaning for analysis.
-
- Gained knowledge about strength of interpretation as well as data visualization using
-   appropriate graphical representation.
+ Data Manipulation and Cleaning:  
+1. Gained proficiency in handling missing values and outliers using pandas.
+2. Learned how to encode categorical variables for machine learning models.
    
- Gained practice of working on external libraries like Deep Translator for data translation.
 
- Improved understanding of environmental news and trends of Amazon rainforest forest fires.
+ Exploratory Data Analysis:  
+1. Developed skills in using matplotlib, seaborn, and plotly for data visualization.
+2. Understood the importance of EDA in identifying patterns and insights in the data.
+   
+
+ Machine Learning:  
+1. Learned how to prepare data for regression models.
+2. Gained experience in training and evaluating regression models using scikit-learn.
+3. Understood the significance of metrics like R² Score and Mean Squared Error in assessing model performance.
+   
+
+ Project Management:  
+1. Practiced organizing a complete data science project, from data loading to model evaluation.
+2. Improved skills in documenting and presenting findings using Jupyter Notebook.
+         
+     
